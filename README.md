@@ -6,7 +6,7 @@
 This is a re-upload of a Game Boy Advance game I made as part of a class assignment in the summer of 2017. I wrote it in C, running "bare metal" on the Game Boy Advance with no operating system, utilities, etc.
 
 ## Play me!
-1. Play the game (.gba file) [here](https://gba.ninja/?autorun=https://raw.githubusercontent.com/mkrupczak3/Oscillating-Avian/master/OscillatingAvian.gba)
+1. Play the game (.gba file) [here](https://gba.ninja/?autorun=https://raw.githubusercontent.com/mkrupczak3/Oscillating-Avian/master/OscillatingAvian.gba&exclusive)
 
 
 ## NOTES:
