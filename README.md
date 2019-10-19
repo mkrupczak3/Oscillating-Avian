@@ -1,6 +1,9 @@
 # Oscillating-Avian
-
 ![Osclillating-Avian](https://raw.githubusercontent.com/mkrupczak3/Oscillating-Avian/master/OscillatingAvian-191019-112319.png "Oscillating Avian")
+
+![Oscillating-Avian](https://raw.githubusercontent.com/mkrupczak3/Oscillating-Avian/master/OscillatingAvian-191019-111728.png "Oscillating Avian")
+
+![Oscillating-Avian](https://raw.githubusercontent.com/mkrupczak3/Oscillating-Avian/master/OscillatingAvian-191019-112327.png "Oscillating Avian")
 
 This is a re-upload of a Game Boy Advance game I made as part of a class assignment in the summer of 2017. I wrote it in C.
 
