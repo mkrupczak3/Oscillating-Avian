@@ -1,11 +1,9 @@
 # Oscillating-Avian
 ![Osclillating-Avian](https://raw.githubusercontent.com/mkrupczak3/Oscillating-Avian/master/OscillatingAvian-191019-112319.png "Oscillating Avian")
 
-![Oscillating-Avian](https://raw.githubusercontent.com/mkrupczak3/Oscillating-Avian/master/OscillatingAvian-191019-111728.png "Oscillating Avian")
-
 ![Oscillating-Avian](https://raw.githubusercontent.com/mkrupczak3/Oscillating-Avian/master/OscillatingAvian-191019-112327.png "Oscillating Avian")
 
-This is a re-upload of a Game Boy Advance game I made as part of a class assignment in the summer of 2017. I wrote it in C.
+This is a re-upload of a Game Boy Advance game I made as part of a class assignment in the summer of 2017. I wrote it in C, running "bare metal" on the Game Boy Advance with no operating system, utilities, etc.
 
 ## Play me!
 1. Download the game (.gba file) [here](https://raw.githubusercontent.com/mkrupczak3/Oscillating-Avian/master/OscillatingAvian.gba)
