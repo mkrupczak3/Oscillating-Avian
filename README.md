@@ -9,7 +9,7 @@ This is a re-upload of a Game Boy Advance game I made as part of a class assignm
 ## 1. Play the game (.gba file) [here](https://matthew.krupczak.org/2019/10/19/project-hawking-1-oscillating-avian-game-boy-game-in-c/)
 
 
-# NOTES:
+# Notes:
 
 Most of the display work is done through Mode 3 and Direct Memory Access (DMA) (for the image, background, etc) as per the scope of this assignment. This is much more demanding on the GBA than doing sprite-based graphics, so some performance considerations were made to keep the game running smoothly.
 
